@@ -1,6 +1,7 @@
 # Srart.ng js_first_task
 
 var fullName = 'Farinde David';
+
 console.log(fullName);
 
 var courses = [
@@ -8,7 +9,9 @@ var courses = [
 "CSS",
 "Javascript",
 "Python"];
+
 console.log(courses);
+
 console.log(courses.Length);
 
 var courseLength;

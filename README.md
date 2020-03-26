@@ -1,9 +1,22 @@
-# hello-world
+# Srart.ng js_first_task
 
-Hi people
+var fullName = 'Farinde David';
+console.log(fullName);
 
-I'm Youngdavid45, I like seeing movies and love 
-listening to good music too
+var courses = [
+"Html",
+"CSS",
+"Javascript",
+"Python"];
+console.log(courses);
+console.log(courses.Length);
 
-This is me trying to get myself acquainted with git.hub
+var courseLength;
+for(courseLength = 1; courseLength <= 200; courseLength++){
+if(courseLength % 2 == 0){
+console.log("evenNo: " + courseLength);
+}
+}
+
+console.log(courseLength);
 
